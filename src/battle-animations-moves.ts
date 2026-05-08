@@ -51284,6 +51284,7 @@ BattleMoveAnims['fiveofakind'] = {anim: BattleMoveAnims['makeitrain'].anim};
 BattleMoveAnims['blusteryfront'] = {anim: BattleMoveAnims['aeroblast'].anim};
 BattleMoveAnims['trample'] = {anim: BattleMoveAnims['highhorsepower'].anim};
 BattleMoveAnims['landslide'] = {anim: BattleMoveAnims['muddywater'].anim};
+BattleMoveAnims['shadowstick'] = {anim: BattleMoveAnims['nightshade'].anim};
 BattleMoveAnims['cloudburst'] = {
 	anim(scene, [attacker, defender]) {
 		BattleMoveAnims['waterspout'].anim(scene, [attacker, defender]);
